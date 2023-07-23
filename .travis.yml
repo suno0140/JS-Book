@@ -13,4 +13,4 @@ deploy:
   keep_history: true
   local_dir: book
   on:
-    branch: master
+    branch: main
